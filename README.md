@@ -1,12 +1,8 @@
----
-title: Java Notes
----
-
-# {title}
+# Java Notes
 
 ## Java 8
 
-<a href="https://docs.oracle.com/javase/tutorial/getStarted/application/index.html">"Hello World!" Java Application<a/>
+["Hello World!" Java Application](https://docs.oracle.com/javase/tutorial/getStarted/application/index.html)
 
 ```java
 /**
@@ -19,5 +15,3 @@ public class HelloWorld {
     }
 }
 ```
-
-### Lambda
